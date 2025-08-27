@@ -1,0 +1,14 @@
+*.sqlite3
+*.sqlite3-journal
+/log/*
+/tmp/*
+/.bundle
+/vendor/bundle
+/node_modules
+.byebug_history
+.DS_Store
+.env
+/public/packs
+/public/packs-test
+/public/assets
+
